@@ -1,0 +1,4 @@
+com\gandb\xml\AppTest.class
+com\gandb\xml\SaxParserTest.class
+com\gandb\xml\ConfigureTest.class
+com\gandb\xml\DOM4JParserTest.class
